@@ -7,7 +7,7 @@ function sayHi(param) {
   return rVal;
 }
 // fn call
-sayHi(10);
-sayHi("Hello");
+// sayHi(10);
+// sayHi("Hello");
 let rVal = sayHi([1, 2, 3, 4, 5]);
 console.log(rVal);
