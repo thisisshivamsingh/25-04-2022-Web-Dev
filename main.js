@@ -41,7 +41,7 @@ function organizeFn(dirPath) {
   // 4. copy / cut files to that organized directory inside of any of category folder
 }
 
-// Help Fn
+// Final test for sync
 function helpFn() {
   console.log(`List of All the commands:
                         node main.js tree "directoryPath"
