@@ -1,0 +1,24 @@
+{
+  "name": "practical-web-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisshivamsingh/25-04-2022-Web-Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisshivamsingh/25-04-2022-Web-Dev/issues"
+  },
+  "bin":{
+    "peppy":"main.js"
+  }
+  "homepage": "https://github.com/thisisshivamsingh/25-04-2022-Web-Dev#readme"
+  
+}
